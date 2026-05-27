@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  
+  <rect x="0" y="0" width="64" height="64" fill="#FFFFFF"></rect>
+  <rect x="1" y="1" width="62" height="62" fill="none" stroke="#000000" stroke-width="2"></rect>
+  <text x="32" y="46" font-family="Noto Serif Display, Georgia, serif" font-size="42" font-style="italic" font-weight="400" text-anchor="middle" fill="#000000">Đg</text>
+</svg>

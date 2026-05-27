@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+models_v8/
+*.pkl
+*.joblib
+
+# Processed data
+*.parquet
+
+# VSCode
+.vscode/
